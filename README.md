@@ -13,7 +13,7 @@
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Styling**: MaterialUI
+- **Styling**: [MaterialUI](https://mui.com/)
 - **Deployment**: [Vercel](https://vercel.com/)
 
 ## Getting Started
@@ -21,7 +21,7 @@
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14 or higher)
-- npm or yarn
+- npm
 
 ### Installation
 
