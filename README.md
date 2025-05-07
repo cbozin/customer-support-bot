@@ -14,7 +14,6 @@
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [MaterialUI](https://mui.com/)
-- **Deployment**: [Vercel](https://vercel.com/)
 
 ## Getting Started
 
