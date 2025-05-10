@@ -1,5 +1,6 @@
 import { NextResponse, NextRequest } from "next/server";
 import { OpenAI } from "openai"
+export const dynamic = "force-dynamic"
 
 const systemPrompt = `
 Welcome to Headstarter AI! We provide AI-powered interviews for software engineering (SWE) jobs. 
